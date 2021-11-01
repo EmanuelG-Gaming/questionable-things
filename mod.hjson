@@ -1,0 +1,8 @@
+name: "qt" 
+displayName: "Questionable Things" 
+author: "Emanuel G"
+description: "Makes your unit do... Questionable things." 
+version: "0.1 Pre-Alpha"
+minGameVersion: 130.1
+hidden: false
+repo: "EmanuelG-Gaming/questionable-things"
