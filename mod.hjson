@@ -1,9 +1,7 @@
 name: "qt" 
 displayName: "Questionable Things" 
 author: "Emanuel G"
-description: "Makes your unit do... Questionable Things. 
-             Even if this mod is compatible with multiplayer, it won't allow you to use it on servers
-             (reason is in the source code)." 
+description: "Makes your unit do... Questionable Things. Even if this mod is compatible with multiplayer, it won't allow you to use it on servers (reason is in the source code)." 
 version: "0.1 Pre-alpha"
 minGameVersion: 130.1
 hidden: true
